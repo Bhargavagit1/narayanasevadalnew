@@ -6,13 +6,13 @@ import { CheckCircle, Heart, Users, Calendar, HelpCircle, Code, ChevronDown, Che
 import { ScrollReveal } from '@/components/ui/ScrollReveal';
 
 // CHANGE THESE TO YOUR GOOGLE FORM CONFIGURATION DETAILS
-const GOOGLE_FORM_ID = '1FAIpQLSfDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // Swap with your Form ID
+const GOOGLE_FORM_ID = '1FAIpQLSeOc3303RSlJCMyj3fH4KOmVe-DspE5SflWqICtKbzFsnDFzQ'; // Swap with your Form ID
 const FORM_FIELD_IDS = {
-  name: 'entry.1000001',       // Swap with your Name input entry ID
-  mobile: 'entry.1000002',     // Swap with your Mobile input entry ID
-  email: 'entry.1000003',      // Swap with your Email input entry ID
+  name: 'entry.1113899618',       // Swap with your Name input entry ID
+  mobile: 'entry.172110408',     // Swap with your Mobile input entry ID
+  email: 'entry.688904452',      // Swap with your Email input entry ID
   availableDays: 'entry.1000004', // Swap with your Available Days entry ID
-  motivation: 'entry.1000005', // Swap with your Motivation entry ID
+  motivation: 'entry.1060114209', // Swap with your Motivation entry ID
 };
 
 const AVAILABLE_DAYS = [
